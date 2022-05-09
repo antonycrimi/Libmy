@@ -2,7 +2,7 @@
 
 Epitech First Year Project
 
-Recoding libc functions into a C static library.
+Recoding LibC functions into a C static library.
 
 ## Requirements
 
