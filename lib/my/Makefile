@@ -33,7 +33,6 @@ SRC	= 	my_cat.c	\
 		my_compute_factorial_rec.c	\
 		my_compute_power_rec.c	\
 		my_compute_square_root.c	\
-		my_evil_str.c	\
 		my_getnbr.c	\
 		my_int_to_string.c	\
 		my_is_prime.c	\
