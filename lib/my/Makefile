@@ -41,7 +41,6 @@ SRC	= 	my_cat.c	\
 		my_is_sorted.c	\
 		my_isneg.c	\
 		my_putchar.c	\
-		my_putnbr_base.c	\
 		my_putnbr.c	\
 		my_putstr.c	\
 		my_revstr.c	\
