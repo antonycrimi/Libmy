@@ -27,7 +27,6 @@ int my_is_prime(int nb);
 bool my_is_sorted(int *array, int size);
 int my_isneg(int n);
 void my_putchar(char c);
-int my_putnbr_base(int nb, char *base);
 int my_putnbr(int nb);
 int my_putstr(char const *str);
 char *my_revstr(char *str);
