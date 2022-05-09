@@ -19,7 +19,6 @@ int my_cat(char *filepath);
 int my_compute_factorial_rec(int nb);
 int my_compute_power_rec(int nb, int p);
 int my_compute_square_root(int nb);
-char *my_evil_str(char *str);
 int my_getnbr(char const *str);
 char *my_int_to_string(int nb);
 int my_is_prime(int nb);
