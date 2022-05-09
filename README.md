@@ -1,4 +1,4 @@
-# libmy
+# Libmy
 
 Epitech First Year Project
 
