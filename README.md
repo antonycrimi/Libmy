@@ -1,17 +1,12 @@
 # Libmy
 
-Epitech First Year Project
+Epitech projet de Première Année
 
-Recoding LibC functions into a C static library.
+Recoder les fonctions de la LibC
 
-## Requirements
+## Fonctions
 
- - [Make](https://www.gnu.org/software/make/)
- - [GCC](https://gcc.gnu.org/)
-
-## Functions
-
-Here is a list of all libmy function prototypes:
+Voici une liste de tous les prototypes de fonctions libmy:
 
 ```cpp
 int my_cat(char *filepath);
