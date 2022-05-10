@@ -1,8 +1,8 @@
 ##
 ## EPITECH PROJECT, 2019
-## Makefile
+## Makefile LibC
 ## File description:
-## Makefile Lib
+## Makefile
 ##
 
 ECHO	=	/bin/echo -e
